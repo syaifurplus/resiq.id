@@ -1,10 +1,3 @@
-<div class="copyright">
-    &copy; 2021 <a href="javascript:void(0);">Admin Resiq.id</a>.
-</div>
-<!-- #Footer -->
-
-</section>
-
 <!-- Jquery Core Js -->
 <script src="<?= base_url(); ?>/assets/admin/plugins/jquery/jquery.min.js"></script>
 
@@ -46,3 +39,6 @@
 
 <!-- Demo Js -->
 <script src="<?= base_url(); ?>/assets/admin/js/demo.js"></script>
+</body>
+
+</html>
