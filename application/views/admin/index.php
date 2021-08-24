@@ -1,6 +1,3 @@
-<?php
-include('layout/header.php');
-?>
     <section class="content">
         <div class="container-fluid">
             <div class="block-header">
@@ -113,9 +110,3 @@ include('layout/header.php');
             </div>
         </div>
     </section>
-
-    <!-- Footer -->
-    <?php
-    include('layout/footer.php');
-    ?>
-    <!-- #Footer -->

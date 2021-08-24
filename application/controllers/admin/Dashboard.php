@@ -27,7 +27,9 @@ class Dashboard extends CI_Controller {
 	}
 
 	public function index(){
+		$this->load->view('admin/layout/header.php');
 		$this->load->view('admin/index.php');
+		$this->load->view('admin/layout/footer.php');
 	}
 
 	public function test(){
